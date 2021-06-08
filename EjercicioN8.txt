@@ -1,0 +1,13 @@
+InicioMultiplo 
+ var num
+ Escribir "Ingresar un num"
+ leer(num)
+    x<-5
+    Mientras (x<500) Hacer
+    x<-x+5
+    Escribir x
+    FinMientras
+      Si(continuar)
+      SiNo
+ Salir
+FinMultiplo
